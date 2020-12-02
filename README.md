@@ -4,10 +4,21 @@ A curated list of tools, tutorials, examples and others related to the great fre
 
 ## Contents
 
-- [Tutorials](#tutorials)
-  - [Text tutorials](#text-tutorials)
-  - [Video tutorials](#video-tutorials)
-    - [fr](#video-tutorials-fr)
+- [awesome-blender ![Awesome](https://awesome.re)](#awesome-blender-)
+  - [Contents](#contents)
+  - [Youtube](#youtube)
+    - [Youtube News](#youtube-news)
+  - [Tutorials](#tutorials)
+    - [Text tutorials](#text-tutorials)
+    - [Video tutorials](#video-tutorials)
+      - [Video tutorials fr](#video-tutorials-fr)
+
+## Youtube
+
+### Youtube News
+
+- [Blender](https://www.youtube.com/c/BlenderFoundation/videos) - blender official channel.
+- [askNK](https://www.youtube.com/c/askNK/videos) - general info chanel about 3D.
 
 ## Tutorials
 
@@ -15,6 +26,10 @@ A curated list of tools, tutorials, examples and others related to the great fre
 
 ### Video tutorials
 
-### Video tutorials fr
+- [Default Cube](https://www.youtube.com/c/DefaultCube/videos) - Many tutorials.
+- [DECODED](https://www.youtube.com/c/DECODEDVFX/videos) - Many tutorials.
+
+#### Video tutorials fr
 
 - [sociamix](https://www.youtube.com/user/ToutApprendre/videos) - Tutoriaux sur de nombreux sujets dont blender.
+- [Alex](https://www.youtube.com/channel/UCW7QD7jG5PwLOBzWXefGH1A/videos) - Tutoriaux  et infos sur blender, unity et unreal.
