@@ -5,6 +5,10 @@ A curated list of tools, tutorials, examples and others related to the great fre
 ## Contents
 
 - [awesome-blender ![Awesome](https://awesome.re)](#awesome-blender-)
+  - [Ressources](#ressources)
+    - [Textures](#textures)
+    - [HDRI](#hdri)
+    - [Models](#models)
   - [Contents](#contents)
   - [Youtube](#youtube)
     - [Youtube Infos](#youtube-infos)
@@ -12,6 +16,21 @@ A curated list of tools, tutorials, examples and others related to the great fre
     - [Text tutorials](#text-tutorials)
     - [Video tutorials](#video-tutorials)
       - [Video tutorials fr](#video-tutorials-fr)
+
+## Ressources
+
+### Textures
+
+- [texture haven](https://texturehaven.com/) - free PBR materials on CC0 licences.
+- [CC0 textures](https://cc0textures.com/) - free PBR materials on CC0 licences.
+
+### HDRI
+
+- [HDRI haven](https://hdrihaven.com/) - free HDRIs on CC0 licences.
+
+### Models
+
+- [3d model haven](https://3dmodelhaven.com/) - free 3d models on CC0 licences.
 
 ## Youtube
 
