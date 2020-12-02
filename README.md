@@ -47,6 +47,33 @@ A curated list of tools, tutorials, examples and others related to the great fre
 - [Christoph Werner](https://www.youtube.com/c/ChristophWerner/videos) - some tutorials.
 - [Jayanam](https://www.youtube.com/c/JayAnAm/videos) - many tutorials.
 - [Remington Creative](https://www.youtube.com/c/RemingtonCreative/videos) - some tutorials.
+- [Ducky 3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos) - many tutorials.
+- [blenderBinge](https://www.youtube.com/c/blenderBinge/videos) - many tutorials.
+- [CG Boost](https://www.youtube.com/c/CGBoost/videos) - many tutorials.
+- [Stylized Station](https://www.youtube.com/c/StylizedStation/videos) - many tutorials.
+- [Greg Blends](https://www.youtube.com/channel/UC5I9PkevsfZxvI3TGa9i2iA/videos) - many tutorials.
+- [Josh Gambrell](https://www.youtube.com/c/JoshGambrell/videos) - many tutorials.
+- [BlenderTemplates](https://www.youtube.com/channel/UC-6vHjpfo62aJpQk_n9siUw/videos) - many tutorials.
+- [Blender Made Easy](https://www.youtube.com/c/BlenderMadeEasy/videos) - many tutorials.
+- [Lance Phan](https://www.youtube.com/c/LancePhan/videos) - many tutorials.
+- [Jen Abbott /Olde Tinkerer Studio](https://www.youtube.com/c/JSAbbott/videos) - many tutorials.
+- [Jeremy Bullock](https://www.youtube.com/c/JeremyBullock/videos) - some tutorials.
+- [CGMatter](https://www.youtube.com/c/CGMatter/videos) - many tutorials.
+- [SouthernShotty](https://www.youtube.com/c/SouthernShotty/videos) - many tutorials.
+- [Blenderlounge](https://www.youtube.com/channel/UCaA3_WSE5A0H6YrS1SDfAQw/videos) - many tutorials.
+- [IanHubert](https://www.youtube.com/c/mrdodobird/videos) - many tutorials.
+- [Curtis Holt](https://www.youtube.com/c/CurtisHolt/videos) - many tutorials.
+- [Dylan Neill](https://www.youtube.com/c/DylanNeill3D/videos) - some tutorials.
+- [tutor4u](https://www.youtube.com/user/tutor4u/videos) - some tutorials.
+- [Royal Skies LLC](https://www.youtube.com/c/RoyalSkiesLLC/videos) - many tutorials.
+- [Himesh Anand](https://www.youtube.com/c/HimeshAnand/videos) - many tutorials.
+- [1ne manshow](https://www.youtube.com/channel/UCCvo68-O4yrr3HGFCWK14UQ/videos) - many tutorials.
+- [Imphenzia](https://www.youtube.com/c/Imphenzia/videos) - some tutorials and exemples of low poly modeling.
+- [Chris P](https://www.youtube.com/c/ChristofPrenninger/videos) - many tutorials and tips.
+- [Level Pixel Level](https://www.youtube.com/c/LevelPixelLevel/videos) - some tutorials.
+- [Thilakanathan Studios](https://www.youtube.com/c/ThilakanathanStudios/videos) - some tutorials.
+- [BornCG](https://www.youtube.com/c/BornCG/videos) - many tutorials.
+- [Olav3D Tutorials](https://www.youtube.com/c/Olav3D/videos) - many quick and easy tutorials.
 
 #### Video tutorials fr
 
@@ -54,3 +81,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
 - [Alex](https://www.youtube.com/channel/UCW7QD7jG5PwLOBzWXefGH1A/videos) - Tutoriaux et infos sur blender, unity et unreal.
 - [Blender DN33](https://www.youtube.com/channel/UC2IcvvMis6gTNAuOVAynHqw/videos) - Nombreux tutoriaux.
 - [Motion Live Teach](https://www.youtube.com/c/RomainGilliot/videos) - quelques tutoriaux.
+- [Tutos Blender](https://www.youtube.com/c/TutosBlender/videos) - quelques tutoriaux pour la version 2.8 et beaucoups pour la version 2.7.
+- [Lord Quimby](https://www.youtube.com/c/LordQuimby/videos) - Nombreux tutoriaux.
+- [SVM 6](https://www.youtube.com/channel/UC8KEDHBwb6H1vyK8nvNtlTw/videos) - Nombreux tutoriaux.
+- [Savoir Pour Tous](https://www.youtube.com/c/SavoirPourTous/videos) - Nombreux tutoriaux blender et autres logiciels.
