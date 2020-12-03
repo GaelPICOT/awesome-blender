@@ -92,6 +92,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
 - [Saqib Hussain](https://www.youtube.com/c/SaqibHussain88/videos) - many tutorials.
 - [Christoph Werner](https://www.youtube.com/c/ChristophWerner/videos) - some tutorials.
 - [Jayanam](https://www.youtube.com/c/JayAnAm/videos) - many tutorials.
+  - [Blender 2.9 PBR Texturing Beginner Tutorial](https://www.youtube.com/watch?v=A7QteBvUOdQ) - tutorial about PBR materials in blender 2.90.[6:56]
 - [Remington Creative](https://www.youtube.com/c/RemingtonCreative/videos) - some tutorials.
 - [Ducky 3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos) - many tutorials.
 - [blenderBinge](https://www.youtube.com/c/blenderBinge/videos) - many tutorials.
@@ -127,10 +128,13 @@ A curated list of tools, tutorials, examples and others related to the great fre
 - [Alex](https://www.youtube.com/channel/UCW7QD7jG5PwLOBzWXefGH1A/videos) - Tutoriaux et infos sur blender, unity et unreal.
 - [Blender DN33](https://www.youtube.com/channel/UC2IcvvMis6gTNAuOVAynHqw/videos) - Nombreux tutoriaux.
 - [Motion Live Teach](https://www.youtube.com/c/RomainGilliot/videos) - quelques tutoriaux.
-- [Tutos Blender](https://www.youtube.com/c/TutosBlender/videos) - quelques tutoriaux pour la version 2.8 et beaucoups pour la version 2.7.
+- [Tutos Blender](https://www.youtube.com/c/TutosBlender/videos) - quelques tutoriaux pour la version 2.80 et beaucoups pour la version 2.7.
 - [Lord Quimby](https://www.youtube.com/c/LordQuimby/videos) - Nombreux tutoriaux.
   - [Création d'un loft](https://www.youtube.com/playlist?list=PLWM87s6JyxsUbrR3nY0Hu-PGObWswZ9jE) - série de 23 vidéos sur la création d'un loft avec toutes les étapes.
 - [SVM 6](https://www.youtube.com/channel/UC8KEDHBwb6H1vyK8nvNtlTw/videos) - Nombreux tutoriaux.
+  - [Les cameras](https://www.youtube.com/playlist?list=PLzBDRm2ujpaZOFsGd84ctNLhZhZt6CMWz) - série de 10 vidéo sur les caméra dans blender.
+  - [Les châteaux](https://www.youtube.com/playlist?list=PLzBDRm2ujpaaO9eH-kZVDL1GWOPPWmBJY) - Tuto sur la modélisation de châteaux.
+  - [Mobilier SF](https://www.youtube.com/playlist?list=PLzBDRm2ujpab62ZXgwkxzapwxupQYTkDp) - Tuto modélisation de mobilier SF sur la version 2.90.
 - [Savoir Pour Tous](https://www.youtube.com/c/SavoirPourTous/videos) - Nombreux tutoriaux blender et autres logiciels.
 
 ## License
