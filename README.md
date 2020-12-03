@@ -128,5 +128,6 @@ A curated list of tools, tutorials, examples and others related to the great fre
 - [Motion Live Teach](https://www.youtube.com/c/RomainGilliot/videos) - quelques tutoriaux.
 - [Tutos Blender](https://www.youtube.com/c/TutosBlender/videos) - quelques tutoriaux pour la version 2.8 et beaucoups pour la version 2.7.
 - [Lord Quimby](https://www.youtube.com/c/LordQuimby/videos) - Nombreux tutoriaux.
+  - [Création d'un loft](https://www.youtube.com/playlist?list=PLWM87s6JyxsUbrR3nY0Hu-PGObWswZ9jE) - série de 23 vidéos sur la création d'un loft avec toutes les étapes.
 - [SVM 6](https://www.youtube.com/channel/UC8KEDHBwb6H1vyK8nvNtlTw/videos) - Nombreux tutoriaux.
 - [Savoir Pour Tous](https://www.youtube.com/c/SavoirPourTous/videos) - Nombreux tutoriaux blender et autres logiciels.
