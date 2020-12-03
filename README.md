@@ -5,10 +5,13 @@ A curated list of tools, tutorials, examples and others related to the great fre
 ## Contents
 
 - [awesome-blender ![Awesome](https://awesome.re)](#awesome-blender-)
+  - [Download](#download)
+  - [Community](#community)
   - [Ressources](#ressources)
     - [Textures](#textures)
     - [HDRI](#hdri)
     - [Models](#models)
+    - [Add-on](#add-on)
   - [Contents](#contents)
   - [Youtube](#youtube)
     - [Youtube Infos](#youtube-infos)
@@ -18,6 +21,15 @@ A curated list of tools, tutorials, examples and others related to the great fre
       - [Video tutorials fr](#video-tutorials-fr)
 
 ## Ressources
+
+### Download
+
+- [blender](https://www.blender.org/) - official website.
+- [blender experimental build](https://builder.blender.org/download/branches/) - blender experimental build.
+
+### Community
+
+- [blender artists](https://blenderartists.org/) - blender artists.
 
 ### Textures
 
@@ -31,6 +43,10 @@ A curated list of tools, tutorials, examples and others related to the great fre
 ### Models
 
 - [3d model haven](https://3dmodelhaven.com/) - free 3d models on CC0 licences.
+
+### Add-on
+
+- [blender-addons](https://blender-addons.org/) - free and paid add-on.
 
 ## Youtube
 
