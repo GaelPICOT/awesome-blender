@@ -21,21 +21,21 @@ A curated list of tools, tutorials, examples and others related to the great fre
     - [Video tutorials](#video-tutorials)
       - [Video tutorials fr](#video-tutorials-fr)
 
-## Ressources
-
-### Download
+## Download
 
 - [blender](https://www.blender.org/) - official website.
 - [blender experimental build](https://builder.blender.org/download/branches/) - blender experimental build.
 
-### Community
+## Community
 
 - [blender artists](https://blenderartists.org/) - blender artists.
 - [blender nation](https://www.blendernation.com/) - news, infos and more about blender.
 
-#### Community Fr
+### Community Fr
 
 - [blender clan](http://blenderclan.tuxfamily.org) - Les tutoriaux ne sont pas à jour. Mais le forum est toujours actif.
+
+## Ressources
 
 ### Textures and materials
 
