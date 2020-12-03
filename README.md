@@ -20,6 +20,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
     - [Text tutorials](#text-tutorials)
     - [Video tutorials](#video-tutorials)
       - [Video tutorials fr](#video-tutorials-fr)
+  - [License](#license)
 
 ## Download
 
@@ -131,3 +132,11 @@ A curated list of tools, tutorials, examples and others related to the great fre
   - [Création d'un loft](https://www.youtube.com/playlist?list=PLWM87s6JyxsUbrR3nY0Hu-PGObWswZ9jE) - série de 23 vidéos sur la création d'un loft avec toutes les étapes.
 - [SVM 6](https://www.youtube.com/channel/UC8KEDHBwb6H1vyK8nvNtlTw/videos) - Nombreux tutoriaux.
 - [Savoir Pour Tous](https://www.youtube.com/c/SavoirPourTous/videos) - Nombreux tutoriaux blender et autres logiciels.
+
+## License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, [the
+contributors](https://github.com/TheJambo/awesome-testing/graphs/contributors)
+have waived all copyright and related or neighboring rights to this work. See the
+[license file](LICENSE) for details.
