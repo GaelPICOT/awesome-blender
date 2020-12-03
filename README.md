@@ -7,6 +7,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
 - [awesome-blender ![Awesome](https://awesome.re)](#awesome-blender-)
   - [Download](#download)
   - [Community](#community)
+    - [Community Fr](#community-fr)
   - [Ressources](#ressources)
     - [Textures](#textures)
     - [HDRI](#hdri)
@@ -30,6 +31,11 @@ A curated list of tools, tutorials, examples and others related to the great fre
 ### Community
 
 - [blender artists](https://blenderartists.org/) - blender artists.
+- [blender nation](https://www.blendernation.com//) - news, infos and more about blender.
+
+#### Community Fr
+
+- [blender clan](http://blenderclan.tuxfamily.org) - Les tutoriaux ne sont pas à jour. Mais le forum est toujours actif.
 
 ### Textures
 
@@ -60,6 +66,8 @@ A curated list of tools, tutorials, examples and others related to the great fre
 ## Tutorials
 
 ### Text tutorials
+
+- [wikibook about blender](https://en.wikibooks.org/wiki/Subject:Blender_3D) - wikibook about blender.
 
 ### Video tutorials
 
