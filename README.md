@@ -9,7 +9,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
   - [Community](#community)
     - [Community Fr](#community-fr)
   - [Ressources](#ressources)
-    - [Textures](#textures)
+    - [Textures and materials](#textures-and-materials)
     - [HDRI](#hdri)
     - [Models](#models)
     - [Add-on](#add-on)
@@ -31,16 +31,18 @@ A curated list of tools, tutorials, examples and others related to the great fre
 ### Community
 
 - [blender artists](https://blenderartists.org/) - blender artists.
-- [blender nation](https://www.blendernation.com//) - news, infos and more about blender.
+- [blender nation](https://www.blendernation.com/) - news, infos and more about blender.
 
 #### Community Fr
 
 - [blender clan](http://blenderclan.tuxfamily.org) - Les tutoriaux ne sont pas à jour. Mais le forum est toujours actif.
 
-### Textures
+### Textures and materials
 
 - [texture haven](https://texturehaven.com/) - free PBR materials on CC0 licences.
 - [CC0 textures](https://cc0textures.com/) - free PBR materials on CC0 licences.
+- [blendermada](http://blendermada.com/materials/) - free blender materials on CC0 licences.
+- [cgbookcase](https://www.cgbookcase.com/) - free PBR materials on CC0 licences.
 
 ### HDRI
 
