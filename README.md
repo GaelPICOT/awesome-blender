@@ -76,6 +76,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
 
 - [Default Cube](https://www.youtube.com/c/DefaultCube/videos) - Many tutorials.
 - [DECODED](https://www.youtube.com/c/DECODEDVFX/videos) - Many tutorials.
+  - [Quick Photo Realism In Blender](https://www.youtube.com/watch?v=PCuVNF5RQHg) - Tuto about modelising a pint of beer to study photorealism tips.
 - [3D Tinkerer](https://www.youtube.com/channel/UC0BLPyx0-mp_NCTT-5SKTvw/videos) - Many tutorials.
 - [CG Fast Track](https://www.youtube.com/c/CGFastTrack/videos) - Many tutorials.
 - [Moby Motion](https://www.youtube.com/c/MobyMotion/videos) - blender tutorials ans physical simulation.
