@@ -76,7 +76,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
 
 - [Default Cube](https://www.youtube.com/c/DefaultCube/videos) - Many tutorials.
 - [DECODED](https://www.youtube.com/c/DECODEDVFX/videos) - Many tutorials.
-  - [Quick Photo Realism In Blender](https://www.youtube.com/watch?v=PCuVNF5RQHg) - Tuto about modelising a pint of beer to study photorealism tips.
+  - [Quick Photo Realism In Blender](https://www.youtube.com/watch?v=PCuVNF5RQHg) - Tuto about modelising a pint of beer to study photorealism tips. [16:53]
 - [3D Tinkerer](https://www.youtube.com/channel/UC0BLPyx0-mp_NCTT-5SKTvw/videos) - Many tutorials.
 - [CG Fast Track](https://www.youtube.com/c/CGFastTrack/videos) - Many tutorials.
 - [Moby Motion](https://www.youtube.com/c/MobyMotion/videos) - blender tutorials ans physical simulation.
@@ -93,7 +93,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
 - [Saqib Hussain](https://www.youtube.com/c/SaqibHussain88/videos) - many tutorials.
 - [Christoph Werner](https://www.youtube.com/c/ChristophWerner/videos) - some tutorials.
 - [Jayanam](https://www.youtube.com/c/JayAnAm/videos) - many tutorials.
-  - [Blender 2.9 PBR Texturing Beginner Tutorial](https://www.youtube.com/watch?v=A7QteBvUOdQ) - tutorial about PBR materials in blender 2.90.[6:56]
+  - [Blender 2.9 PBR Texturing Beginner Tutorial](https://www.youtube.com/watch?v=A7QteBvUOdQ) - tutorial about PBR materials in blender 2.90. [6:56]
 - [Remington Creative](https://www.youtube.com/c/RemingtonCreative/videos) - some tutorials.
 - [Ducky 3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos) - many tutorials.
 - [blenderBinge](https://www.youtube.com/c/blenderBinge/videos) - many tutorials.
