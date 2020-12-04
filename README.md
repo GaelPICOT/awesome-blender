@@ -102,7 +102,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
 - [Greg Blends](https://www.youtube.com/channel/UC5I9PkevsfZxvI3TGa9i2iA/videos) - many tutorials.
 - [Josh Gambrell](https://www.youtube.com/c/JoshGambrell/videos) - many tutorials.
 - [BlenderTemplates](https://www.youtube.com/channel/UC-6vHjpfo62aJpQk_n9siUw/videos) - many tutorials.
-- [Blender Made Easy](https://www.youtube.com/c/BlenderMadeEasy/videos) - many tutorials.
+- [Blender Made Easy](https://www.youtube.com/c/BlenderMadeEasy/videos) - many tutorials about fire simuation and other subject.
   - [How to Create a Fire Trail](https://www.youtube.com/watch?v=iW71S5Q3kLM&t=21s) - Tutoriel about how to make a fire trail in blender. [20:03]
 - [Lance Phan](https://www.youtube.com/c/LancePhan/videos) - many tutorials.
 - [Jen Abbott /Olde Tinkerer Studio](https://www.youtube.com/c/JSAbbott/videos) - many tutorials.
