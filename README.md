@@ -83,6 +83,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
 - [CG Fast Track](https://www.youtube.com/c/CGFastTrack/videos) - Many tutorials.
 - [Moby Motion](https://www.youtube.com/c/MobyMotion/videos) - blender tutorials ans physical simulation.
 - [Grant Abbitt](https://www.youtube.com/c/GrantAbbitt/videos) - many tutorials.
+  - [Making GOLD COINS](https://www.youtube.com/watch?v=r8ltW7pAN6M) - tuto about making gold coin in low poly for beginner. [11:35]
 - [Pietro Chiovaro](https://www.youtube.com/channel/UC1tOuHvcBAMcWncyGqesFhw/videos) - many tutorials.
 - [Derek Elliott](https://www.youtube.com/c/DerekElliott/videos) - many tutorials.
 - [RenderRides](https://www.youtube.com/c/RenderRides/videos) - many tutorials.
