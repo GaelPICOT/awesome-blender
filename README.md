@@ -96,6 +96,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
   - [Blender 2.9 PBR Texturing Beginner Tutorial](https://www.youtube.com/watch?v=A7QteBvUOdQ) - tutorial about PBR materials in blender 2.90. [6:56]
 - [Remington Creative](https://www.youtube.com/c/RemingtonCreative/videos) - some tutorials.
 - [Ducky 3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ/videos) - many tutorials.
+  - [Procedural Grid Animation Loop in Eevee](https://www.youtube.com/watch?v=StEX5VhRndI) - Procedural Grid Animation Loop.
 - [blenderBinge](https://www.youtube.com/c/blenderBinge/videos) - many tutorials.
 - [CG Boost](https://www.youtube.com/c/CGBoost/videos) - many tutorials.
 - [Stylized Station](https://www.youtube.com/c/StylizedStation/videos) - many tutorials.
