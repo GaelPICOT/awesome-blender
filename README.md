@@ -71,6 +71,8 @@ A curated list of tools, tutorials, examples and others related to the great fre
 ### Text tutorials
 
 - [wikibook about blender](https://en.wikibooks.org/wiki/Subject:Blender_3D) - wikibook about blender.
+- [Graphics and programming](https://www.graphicsandprogramming.net/eng/tutorial/blender) - Texte tutorials.
+  - [Converte image sequence to mp4](https://www.graphicsandprogramming.net/eng/tutorial/blender/the-video-sequence-editor/blender-convert-sequence-images-mp4) - converte an image senquence to mp4 using blender
 
 ### Video tutorials
 
