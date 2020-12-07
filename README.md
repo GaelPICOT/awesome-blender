@@ -1,10 +1,13 @@
-# awesome-blender [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# awesome-blender
+
+[![Awesome](https://awesome.re/badge.svg)
 
 A curated list of tools, tutorials, examples and others related to the great free 3d software blender
 
 ## Contents
 
-- [awesome-blender ![Awesome](https://awesome.re)](#awesome-blender-)
+- [awesome-blender](#awesome-blender)
+  - [Contents](#contents)
   - [Download](#download)
   - [Community](#community)
     - [Community Fr](#community-fr)
@@ -13,7 +16,6 @@ A curated list of tools, tutorials, examples and others related to the great fre
     - [HDRI](#hdri)
     - [Models](#models)
     - [Add-on](#add-on)
-  - [Contents](#contents)
   - [Youtube](#youtube)
     - [Youtube Infos](#youtube-infos)
   - [Tutorials](#tutorials)
