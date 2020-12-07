@@ -133,6 +133,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
 - [BornCG](https://www.youtube.com/c/BornCG/videos) - many tutorials.
 - [Olav3D Tutorials](https://www.youtube.com/c/Olav3D/videos) - many quick and easy tutorials.
 - [25 games](https://www.youtube.com/c/25games/videos) - tutos about gamedev with many about blender.
+  - [How to import a SVG](https://www.youtube.com/watch?v=ctwiT8LYjVQ) - How to import a SVG & work with it | Blender 2.81. [5:17]
 
 #### Video tutorials fr
 
