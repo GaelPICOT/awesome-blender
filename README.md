@@ -20,6 +20,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
     - [Text tutorials](#text-tutorials)
     - [Video tutorials](#video-tutorials)
       - [Video tutorials fr](#video-tutorials-fr)
+  - [Other list](#other-list)
   - [License](#license)
 
 ## Download
@@ -56,6 +57,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
 ### Add-on
 
 - [blender-addons](https://blender-addons.org/) - free and paid add-on.
+- [blender-archipack](https://blender-archipack.org) free addon (with paid version) for architechture included in blender.
 
 ## Youtube
 
@@ -92,6 +94,9 @@ A curated list of tools, tutorials, examples and others related to the great fre
 - [cgvirus](https://www.youtube.com/c/cgvirus/videos) - many tutorials blender and natron.
 - [Steven Scott](https://www.youtube.com/c/StevenScott_studio53/videos) - many tutorials.
 - [The CG Essentials](https://www.youtube.com/c/TheCGEssentials/videos) - many tutorials.
+  - [Blender Architectural Modeling Tutorials and Tools](https://www.youtube.com/playlist?list=PL0LADxPpmXN4cdyX_Kg1Tmfj5fj_eVziZ) Playlist of 15 videos about architectural modeling.
+    - [Architectural Modeling](https://www.youtube.com/watch?v=l-aom9PyosM) - Architectural Modeling in Blender IS HERE! Architectural Modeling with ArchiPack! [12:49]
+    - [How to MODEL WINDOWS](https://www.youtube.com/watch?v=g5msW52JAPw) - How to MODEL WINDOWS in Blender - Step by Step Tutorial! [11:30]
 - [Paul O Caggegi](https://www.youtube.com/c/PaulOCaggegi/videos) - many tutorials blender for comics.
 - [Saqib Hussain](https://www.youtube.com/c/SaqibHussain88/videos) - many tutorials.
 - [Christoph Werner](https://www.youtube.com/c/ChristophWerner/videos) - some tutorials.
@@ -127,6 +132,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
 - [Thilakanathan Studios](https://www.youtube.com/c/ThilakanathanStudios/videos) - some tutorials.
 - [BornCG](https://www.youtube.com/c/BornCG/videos) - many tutorials.
 - [Olav3D Tutorials](https://www.youtube.com/c/Olav3D/videos) - many quick and easy tutorials.
+- [25 games](https://www.youtube.com/c/25games/videos) - tutos about gamedev with many about blender.
 
 #### Video tutorials fr
 
@@ -142,6 +148,10 @@ A curated list of tools, tutorials, examples and others related to the great fre
   - [Les châteaux](https://www.youtube.com/playlist?list=PLzBDRm2ujpaaO9eH-kZVDL1GWOPPWmBJY) - Tuto sur la modélisation de châteaux.
   - [Mobilier SF](https://www.youtube.com/playlist?list=PLzBDRm2ujpab62ZXgwkxzapwxupQYTkDp) - Tuto modélisation de mobilier SF sur la version 2.90.
 - [Savoir Pour Tous](https://www.youtube.com/c/SavoirPourTous/videos) - Nombreux tutoriaux blender et autres logiciels.
+
+## Other list
+
+- [agmmnn/awesome-blender](https://github.com/agmmnn/awesome-blender) - other version of awesome list about blender.
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
