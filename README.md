@@ -1,6 +1,6 @@
 # awesome-blender
 
-[![Awesome](https://awesome.re/badge.svg)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of tools, tutorials, examples and others related to the great free 3d software blender
 
