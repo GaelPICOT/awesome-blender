@@ -151,6 +151,7 @@ A curated list of tools, tutorials, examples and others related to the great fre
   - [Les châteaux](https://www.youtube.com/playlist?list=PLzBDRm2ujpaaO9eH-kZVDL1GWOPPWmBJY) - Tuto sur la modélisation de châteaux.
   - [Mobilier SF](https://www.youtube.com/playlist?list=PLzBDRm2ujpab62ZXgwkxzapwxupQYTkDp) - Tuto modélisation de mobilier SF sur la version 2.90.
 - [Savoir Pour Tous](https://www.youtube.com/c/SavoirPourTous/videos) - Nombreux tutoriaux blender et autres logiciels.
+- [Mykol](https://www.youtube.com/user/OhMykol/videos) - Nombreux tutoriaux.
 
 ## Other list
 
